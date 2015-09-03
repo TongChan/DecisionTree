@@ -1,0 +1,14 @@
+age: continuous
+sex: 0 1
+chestPain: 1 2 3 4 
+bloodPressure: continuous
+Cholesterol : continuous
+bloodSugar>120: 0 1
+electrocardiographic: 0 1 2
+maxHeartRate: continuous
+angina: 0 1
+oldpeakST: continuous
+slopeST:  continuous
+majorVessels: continuous
+thal: 3 6 7
+heartDisease: no yes

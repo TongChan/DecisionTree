@@ -1,0 +1,4 @@
+homeowner: no yes
+martialStatus: single married divorced
+income: continuous
+default: no yes
